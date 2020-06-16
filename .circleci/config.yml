@@ -16,6 +16,6 @@
            command: |
              dotnet build ./DummyConsole/DummyConsole.sln
        - run:
-            name: echo from App build
+            name: echo the secret
             command: |
-              echo dotnet ./DummyConsole/bin/Debug/netcoreapp3.1/DummyConsole.dll
+              echo $my_secret
