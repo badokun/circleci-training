@@ -6,7 +6,11 @@ namespace DummyConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var env = System.Environment.GetEnvironmentVariable("my_secret");
+            if (string.IsNullOrEmpty(env)){
+                env = "not set";
+            }
+            Console.WriteLine("Hello World! The secret is " + env);
         }
     }
 }
