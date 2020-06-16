@@ -1,0 +1,13 @@
+C:\Projects\circleci-training\DummyConsole\bin\Debug\netcoreapp3.1\DummyConsole.exe
+C:\Projects\circleci-training\DummyConsole\bin\Debug\netcoreapp3.1\DummyConsole.deps.json
+C:\Projects\circleci-training\DummyConsole\bin\Debug\netcoreapp3.1\DummyConsole.runtimeconfig.json
+C:\Projects\circleci-training\DummyConsole\bin\Debug\netcoreapp3.1\DummyConsole.runtimeconfig.dev.json
+C:\Projects\circleci-training\DummyConsole\bin\Debug\netcoreapp3.1\DummyConsole.dll
+C:\Projects\circleci-training\DummyConsole\bin\Debug\netcoreapp3.1\DummyConsole.pdb
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.csprojAssemblyReference.cache
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.AssemblyInfoInputs.cache
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.AssemblyInfo.cs
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.csproj.CoreCompileInputs.cache
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.dll
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.pdb
+C:\Projects\circleci-training\DummyConsole\obj\Debug\netcoreapp3.1\DummyConsole.genruntimeconfig.cache
