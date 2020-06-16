@@ -12,10 +12,10 @@
      steps:
        - checkout
        - run:
-        name: dotnet build
-        command: |
-          dotnet build ./DummyConsole/DummyConsole.sln
+           name: dotnet build
+           command: |
+             dotnet build ./DummyConsole/DummyConsole.sln
        - run:
-          name: echo from App build
-          command: |
-            echo dotnet ./DummyConsole/bin/Debug/netcoreapp3.1/DummyConsole.dll
+            name: echo from App build
+            command: |
+              echo dotnet ./DummyConsole/bin/Debug/netcoreapp3.1/DummyConsole.dll
